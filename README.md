@@ -12,4 +12,8 @@ What is Destructuring and Spread in JavaScript..?
     The Rest parameter is kind of the opposite of the Spread syntax. It helps to consolidate (or collect) the remaining object properties
     into a new object while destructuring is done.
     
+    https://www.freecodecamp.org/news/javascript-object-destructuring-spread-operator-rest-parameter/
+    
+    
+    
  
