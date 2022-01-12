@@ -1,5 +1,6 @@
 # JavaScript
 Interview and more about JavaScript
+--------------------------------------------------------------------------------------
 
 What is Destructuring and Spread in JavaScript..?
     
