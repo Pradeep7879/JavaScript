@@ -14,6 +14,12 @@ What is Destructuring and Spread in JavaScript..?
     
     https://www.freecodecamp.org/news/javascript-object-destructuring-spread-operator-rest-parameter/
     
+What is the Closures..?
     
+       Closures are important because they control what is and isn’t in scope in a particular function, 
+       along with which variables are shared between sibling functions in the same containing scope. 
+       **A closure is a function having access to the parent scope, even after the parent function has closed.**
+
+
     
  
