@@ -20,6 +20,21 @@ What is the Closures..?
        along with which variables are shared between sibling functions in the same containing scope. 
        **A closure is a function having access to the parent scope, even after the parent function has closed.**
 
+What is Promises..?
 
+        How Promises Work
+        A promise is an object which can be returned synchronously from an asynchronous function. It will be in one of 3 possible states:
+        
+        Fulfilled: onFulfilled() will be called (e.g., resolve() was called)
+        Rejected: onRejected() will be called (e.g., reject() was called)
+        Pending: not yet fulfilled or rejected
+        
+        A promise is settled if it’s not pending (it has been resolved or rejected). 
+        Sometimes people use resolved and settled to mean the same thing: not pending.
+        
+        Once settled, a promise can not be resettled. Calling resolve() or reject() again will have no effect. 
+        The immutability of a settled promise is an important feature.
+        
+        
     
  
