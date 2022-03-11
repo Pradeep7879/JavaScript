@@ -83,6 +83,15 @@ What is Promises..?
 
         Date objects, Array objects, and Person objects inherit from Object.prototype. 
         
+ What is the difference between var, let and const..?
+ 
+        	Re-declare	update	remark					                                        scope
+        var 	yes	        yes	scope within function |	variable can be access from outside the function	function, global
+        let	no	        yes	block scope	      |				                                block, function, global
+        const	no	        no	access within block   |					                        block, function, global
+                {}block scope can not access outside of the block							
+
+        
  
        
 
